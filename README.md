@@ -1,6 +1,6 @@
 ### Hi there 👋
-MI name is Lucas 
-###  I am currently working as a senior graphic designer.
+### MI name is Lucas 
+### I am currently working as a senior graphic designer.
 ### I am also a QA tester
 and currently course web development
 
