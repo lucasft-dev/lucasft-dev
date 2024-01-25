@@ -1,5 +1,10 @@
 ### Hi there 👋
-### 🔭 I am currently working as a senior graphic designer.
+MI name is Lucas 
+###  I am currently working as a senior graphic designer.
+### I am also a QA tester
+and currently course web development
+
+
 <!--
 **lucasft-dev/lucasft-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
